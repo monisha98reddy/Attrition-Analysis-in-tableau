@@ -6,3 +6,5 @@ SanDisk is a brand of Western Digital for flash memory products, including memor
 It was acquired by Western Digital in 2016. As of March 2020, Western Digital is the fourth-largest manufacturer of flash memory.
 
 The visualization explores the Sandisk Attrition 
+<img width="368" alt="Screenshot 2021-09-28 at 1 27 51 PM" src="https://user-images.githubusercontent.com/63378154/135047100-ae6ff006-368b-4a7f-9369-fa325bb1af05.png">
+
